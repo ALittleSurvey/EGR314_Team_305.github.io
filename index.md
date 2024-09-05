@@ -10,3 +10,4 @@ EGR 314 - Fall 2024
 
 * Andrew Headley
 * Victor Chavez
+* Derek Schow
